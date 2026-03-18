@@ -4,7 +4,6 @@ print(a + b)
 print(a * b)
 print(a / b)
 
-
 Output:
 15
 50
